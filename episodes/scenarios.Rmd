@@ -7,15 +7,15 @@ exercises: 2
 # Scenarios
 The scenarios below can inform the development of workflows or research ideas. They aim to leverage the availability and integration of relevant information from different data services. 
 
-## Prioritising emergency recording of cultural heritage 
+## [Prioritising emergency recording of cultural heritage](emergency.md)
 Coastal heritage sites face growing threats from erosion, flooding, and climate change, making equitable, data-driven prioritisation of preservation resources essential.
 
 
-## Informing planning of infrastructure affecting cultural heritage
+## [Informing planning of infrastructure affecting cultural heritage](planning.md)
 
 Infrastructure near heritage sites boosts tourism and access but risks physical damage and overtourism; decision-makers need better data to balance these pressures.
 
 
-## Mitigating the impacts of ageing infrastructure on urban communities 
+## [Mitigating the impacts of ageing infrastructure on urban communities](ageing.md)
 
 Urban historic buildings face structural damage from traffic and ageing infrastructure, threatening occupied spaces and requiring better data to guide mitigation planning.
