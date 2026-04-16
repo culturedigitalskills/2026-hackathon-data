@@ -19,6 +19,7 @@ Citizen science collected dataset of heritage sites under threat.
 - Digital Collection - CITiZAN, Museum of London Archaeology (2024) *CITiZAN: the Coastal and Intertidal Zone Archaeological Network* [data-set]. York: Archaeology Data Service [distributor] <https://doi.org/10.5284/1116909>
 - [.csv download of database](https://archaeologydataservice.ac.uk/catalogue/adsdata/arch-3027-1/dissemination/citizan_database/CITiZAN_All_features_published.csv)
 - [Entire dataset via ADS Catalogue](https://archaeologydataservice.ac.uk/data-catalogue/search?isPartOf=https%3A%2F%2Fariadne-infrastructure.eu%2Faocat%2FCollection%2FADS%2FFB9DF32A-4C59-32AF-8F3D-EC9264C46E81&isPartOfLabel=CITiZAN%3A%20the%20Coastal%20and%20Intertidal%20Zone%20Archaeological%20Network)
+- DAFNI upload - [CITiZAN: the Coastal and Intertidal Zone Archaeological Network dataset of sites around England.](https://public-facility.secure.dafni.rl.ac.uk/data/details?version_id=d610bf1f-2e13-4590-9656-b0e6dc38d0a0)
 
 ---
 
@@ -32,12 +33,14 @@ Citizen science collected dataset of heritage sites under threat.
 ### The Palaeolithic Rivers of Southwest Britain
 
 - Collection - Tony Brown, Robert Hosfield, Laura Basell, Phil Toms, S. Hounsell, R. Young (2008) *The Palaeolithic Rivers of Southwest Britain* [data-set]. York: Archaeology Data Service [distributor] <https://doi.org/10.5284/1000027>
+- DAFNI upload - [The Palaeolithic Rivers of Southwest Britain: Artefacts and Findspots](https://public-facility.secure.dafni.rl.ac.uk/data/details?version_id=62263dac-03e5-4cb5-ae0f-ce6b4e30041c)
 
 ---
 
 ### Inland Navigation in England and Wales before 1348: GIS Database
 
 - Collection - Oksanen, E. (2019) *Inland Navigation in England and Wales before 1348: GIS Database* [data-set]. York: Archaeology Data Service [distributor] <https://doi.org/10.5284/1057497>
+- DAFNI upload - [Inland Navigation in England and Wales before 1348: GIS Database](https://public-facility.secure.dafni.rl.ac.uk/data/details?version_id=0b21e1c2-f95c-4eb4-8432-a70faa03791d)
 
 ---
 
@@ -45,6 +48,7 @@ Citizen science collected dataset of heritage sites under threat.
 
 - Collection - N. J. Loader, G. H. F. Young, D. McCarroll, D. Davies, D. Miles, Christopher Bronk Ramsey (2020) *Summer Precipitation for the England and Wales region, 1201–2000 CE, from Stable Oxygen Isotopes in oak tree rings* [data-set]. York: Archaeology Data Service [distributor] <https://doi.org/10.5284/1078324> (spreadsheet data)
 - Associated publication - Loader, N.J., Young, G.H.F., McCarroll, D., Davies, D., Miles, D., and Bronk Ramsey, C. (2020), Summer Precipitation for the England and Wales region, 1201–2000 CE, from Stable Oxygen Isotopes in oak tree rings. *J. Quaternary Sci.* <https://doi.org/10.1002/jqs.3226>
+- DAFNI upload - [Summer Precipitation for the England and Wales region, 1201 - 2000CE, from Stable Oxygen Isotopes in oak tree rings](https://public-facility.secure.dafni.rl.ac.uk/data/details?version_id=470ce226-2f1f-4253-94de-85532cc5bb05)
 
 ---
 
