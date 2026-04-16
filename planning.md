@@ -17,6 +17,7 @@ The development of infrastructure around cultural heritage sites presents a comp
 - Collection - High Speed Two Ltd. (2024) *HS2 Heritage Spatial Archive* [data-set]. York: Archaeology Data Service [distributor] <https://doi.org/10.5284/1118851>
 - Part of a parent collection - High Speed Two Ltd. (2023) *HS2 Historic Environment Digital Archive* [data-set]. York: Archaeology Data Service [distributor] <https://doi.org/10.5284/1113008>
 - Associated data paper - Aryankhesal, F.F. 2023 'HS2 Phase One: Heritage GIS Digital Archive (Data paper)', *Internet Archaeology*, HS2 publications. <https://doi.org/10.11141/ia.hs2.1>
+- DAFNI upload - [HS2 Heritage Spatial Archive - LiDAR survey and GIS data.](https://public-facility.secure.dafni.rl.ac.uk/data/details?version_id=a733a26c-fe59-43f6-a331-9065aae9cd91)
 
 ---
 
