@@ -9,7 +9,7 @@ The hackathon invites participants to explore how digital data sources can come 
 
 The integration of data from heterogeneous sources is a particular focus of these scenarios, as the hackathon aims to explore the infrastructures, tools, and knowledge required for this. Hence, participants are invited to reflect on the strengths and needs of these data services, the availability of tools, and the knowledge barriers to developing research approaches based on this integration of data. The role of Artificial Intelligence models in supporting coding and agentic processes in software development is of further interest.
 
-For the Hackaton a series of [scenarios](scenarios.md) are presnted. To investigate your chosen scenario, we will go through the following steps:
+For the Hackaton a series of [scenarios](scenarios.md) are presented. To investigate your chosen scenario, we will go through the following steps:
  
 ### Step 1: Familiarisation with the scenarios
 Familiarise yourself with the summary of each scenario, as it sets out the context and general theme to be investigated, and begin shaping your research questions.
