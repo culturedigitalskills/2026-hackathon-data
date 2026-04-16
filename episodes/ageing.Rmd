@@ -16,16 +16,11 @@ Listed and historic buildings in urban areas are particularly vulnerable to the 
 
 - Entire Collection - Vernacular Architecture Group (VAG) (2024) *Vernacular Architecture Group (VAG) Collections and Map* [data-set]. York: Archaeology Data Service [distributor] <https://doi.org/10.5284/1106888>
 - [Interactive map](https://archaeologydataservice.ac.uk/archives/collections/view/1003639/map.cfm) (no downloadable GIS files, but each dataset can be downloaded as structured data)
+- DAFNI upload - [Vernacular Architecture Group databases of traditional buildings location and features.](https://public-facility.secure.dafni.rl.ac.uk/data/details?version_id=b97601bb-7db3-46ba-a231-1f130b942029)
 
 ---
 
 ## DAFNI Datasets
-
-### Credo Hipims
-
-- HiPIMS Model <https://facility.secure.dafni.rl.ac.uk/models/details?version_id=9c851778-d6ad-4247-9690-a2b2c30ddd64#iss=https:/keycloak.s[…]c.uk/realms/Production>
-
----
 
 ### CGFI
 
