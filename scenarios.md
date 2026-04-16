@@ -19,3 +19,8 @@ Infrastructure near heritage sites boosts tourism and access but risks physical 
 ## [Mitigating the impacts of ageing infrastructure on urban communities](ageing.md)
 
 Urban historic buildings face structural damage from traffic and ageing infrastructure, threatening occupied spaces and requiring better data to guide mitigation planning.
+
+
+## Mapping Seshat data to historical polities with Cliopatria
+
+Quantitative historical data in Seshat can support powerful comparative research, but the lack of explicit and precise geographic data limits spatial analysis. Combining Seshat with Cliopatria polygon data makes it possible to map polities, identify gaps in coverage, and explore likely transitions between political entities over time. 
