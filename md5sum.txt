@@ -12,6 +12,6 @@
 "episodes/seshat.Rmd" "11d81e783c2b0a31cc3eba262474d992" "site/built/seshat.md" "2026-04-17"
 "instructors/instructor-notes.md" "5cf113fd22defb29d17b64597f3c9bc0" "site/built/instructor-notes.md" "2026-04-17"
 "learners/reference.md" "527a12e217602daae51c5fd9ef8958df" "site/built/reference.md" "2026-04-17"
-"learners/setup.md" "5aed457ec8ceb0c6badf26e91762ea92" "site/built/setup.md" "2026-04-17"
+"learners/setup.md" "98e2ca8d78b1d276685bcd29150b2d7d" "site/built/setup.md" "2026-04-17"
 "profiles/learner-profiles.md" "5fe5bf7537072422b91ed393ada03f9a" "site/built/learner-profiles.md" "2026-04-17"
 "renv/profiles/lesson-requirements/renv.lock" "d31835408bb8850b25d7db3f21fe8fc7" "site/built/renv.lock" "2026-04-17"
